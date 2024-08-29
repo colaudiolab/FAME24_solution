@@ -5,7 +5,7 @@ The complete code is currently being organized and is expected to be released be
 
 # Step1 Data prepare
 ## 1.1 search name through Wiki
-The wikipedia has a structure to list all the famous persons, so we utlize this structure to automaticlly download the person names and corresponding image, this step will produce images with person name like `data_prepare/indian_actresses_women/{person_name}.png`
+The wikipedia has a structure to list all the famous persons, so we utlize this structure to automaticlly download the person names and corresponding image, this step will produce images with person name like `indian_actresses_women/{person_name}.png`
 
 ```python
 # remember to change the proxy and other parameters in file manually
